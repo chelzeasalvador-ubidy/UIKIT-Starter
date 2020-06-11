@@ -9,8 +9,6 @@ yarn
 
 ## Start locally
 
-Start Strapi in watch mode.
-
 ```bash
 yarn run storybook
 ```
