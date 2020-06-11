@@ -8,6 +8,6 @@ export default {
   component: Button,
 };
 
-export const Text = () => (
+export const Primary = () => (
   <Button onClick={action('clicked')}>Hello Button Test</Button>
 );
